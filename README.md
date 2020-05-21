@@ -11,9 +11,13 @@ Para executar os exemplos pode-se instalar um Jupyter Notebook, para isso é nec
 
 ```pip install jupyter```
 
-Outra alternativa é executar online utilizando o Google Colab, que permite abrir um arquivo do Jupyter Notebook direto do Github e realizar todas as ações pelo navegador. Para isso, basta acessar o link abaixo, para executar código é necessário se cadastrar, mas é gratuíto. O link já abrirá o arquivo deste projeto.
+Outra alternativa é executar online utilizando o Google Colab ou o MyBinder, que permitem abrir um arquivo do Jupyter Notebook direto do Github e realizar todas as ações pelo navegador. Para isso, basta acessar os link abaixo, para executar código é necessário se cadastrar, mas é gratuíto. O link já abrirá o arquivo deste projeto.
 
+**Google Colab**  
 https://colab.research.google.com/github/rafegal/POO/blob/master/webinar_oo.ipynb
+
+**MyBinder**  
+https://mybinder.org/v2/gh/rafegal/POO/master
 
 ## Foram abordados os tópicos:
 
